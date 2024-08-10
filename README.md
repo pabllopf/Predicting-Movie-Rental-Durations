@@ -25,7 +25,8 @@ Recommend a model yielding a mean squared error (MSE) less than 3 on the test se
 Save the model you would recommend as a variable named best_model, and save its MSE on the test set as best_mse.
 
 
-![dvd_image](dvd_image.jpg)
+![image](https://github.com/user-attachments/assets/49a4e2b2-a5e8-445d-a329-618f787a1e58)
+
 
 A DVD rental company needs your help! They want to figure out how many days a customer will rent a DVD for based on some features and has approached you for help. They want you to try out some regression models which will help predict the number of days a customer will rent a DVD for. The company wants a model which yeilds a MSE of 3 or less on a test set. The model you make will help the company become more efficient inventory planning.
 
